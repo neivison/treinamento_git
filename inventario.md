@@ -1,9 +1,12 @@
-celular: *Moto G*
+celular: *Iphone 4s*
 
-relogio: *moto 360*
+relogio: *Fossil*
 
 bag:
 
 	-tablet
 	-note
 	-caderno
+	-Magnun Sniper
+	-Piloto
+	-Gurgel
